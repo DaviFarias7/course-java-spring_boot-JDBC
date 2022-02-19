@@ -31,7 +31,7 @@ https://course-java-jdbc.herokuapp.com/users
      "password": "123456"
    }
 
-### UPDATE USER :blue_circle:
+### UPDATE USER :large_blue_circle:
 https://course-java-jdbc.herokuapp.com/users/"IFORMAR O ID DO USER A SER ATUALIZADO"
 - Json do corpo da requisição PUT
   ```
@@ -43,7 +43,7 @@ https://course-java-jdbc.herokuapp.com/users/"IFORMAR O ID DO USER A SER ATUALIZ
    }
 
 
-### DELET USER :red_circle:
+### DELETE USER :red_circle:
 https://course-java-jdbc.herokuapp.com/users/"IFORMAR O ID DO USER A SER DELETADO"
 
 ### GET PRODUCTS :green_circle:
