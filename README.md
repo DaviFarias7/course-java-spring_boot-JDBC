@@ -18,6 +18,8 @@ Objetivos
 
 # Aplicação funcionando em produção via Heroku
 
+## Requisições para testar no Postman/Insomnia
+
 ### GET USERS :green_circle:
 https://course-java-jdbc.herokuapp.com/users
 
