@@ -21,6 +21,31 @@ Objetivos
 ### GET USERS :green_circle:
 https://course-java-jdbc.herokuapp.com/users
 
+### INSERT USER :yellow_circle:
+- Json do corpo da requisição POST
+  ```
+  {
+     "name": "Kessia Farias",
+     "email": "kessia@gmail.com",
+     "phone": "977557757",
+     "password": "123456"
+   }
+
+### UPDATE USER :blue_circle:
+https://course-java-jdbc.herokuapp.com/users/"IFORMAR O ID DO USER A SER ATUALIZADO"
+- Json do corpo da requisição PUT
+  ```
+  {
+     "name": "Kessia Farias",
+     "email": "kessia@gmail.com",
+     "phone": "977557757",
+     "password": "123456"
+   }
+
+
+### DELET USER :red_circle:
+https://course-java-jdbc.herokuapp.com/users/"IFORMAR O ID DO USER A SER DELETADO"
+
 ### GET PRODUCTS :green_circle:
 https://course-java-jdbc.herokuapp.com/products
 
