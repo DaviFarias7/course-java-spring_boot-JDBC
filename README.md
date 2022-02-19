@@ -22,6 +22,7 @@ Objetivos
 https://course-java-jdbc.herokuapp.com/users
 
 ### INSERT USER :yellow_circle:
+https://course-java-jdbc.herokuapp.com/users/
 - Json do corpo da requisição POST
   ```
   {
