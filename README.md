@@ -25,26 +25,26 @@ https://course-java-jdbc.herokuapp.com/users
 - Json do corpo da requisição POST
   ```
   {
-     "name": "Kessia Farias",
-     "email": "kessia@gmail.com",
-     "phone": "977557757",
+     "name": "nome",
+     "email": "nomea@gmail.com",
+     "phone": "9999999",
      "password": "123456"
    }
 
 ### UPDATE USER :large_blue_circle:
-https://course-java-jdbc.herokuapp.com/users/"IFORMAR O ID DO USER A SER ATUALIZADO"
+https://course-java-jdbc.herokuapp.com/users/ " IFORMAR O ID DO USER A SER ATUALIZADO"
 - Json do corpo da requisição PUT
   ```
   {
-     "name": "Kessia Farias",
-     "email": "kessia@gmail.com",
-     "phone": "977557757",
-     "password": "123456"
+     "name": "nome",
+     "email": "nomea@gmail.com",
+     "phone": "9999999",
+     "password": "123456""
    }
 
 
 ### DELETE USER :red_circle:
-https://course-java-jdbc.herokuapp.com/users/"IFORMAR O ID DO USER A SER DELETADO"
+https://course-java-jdbc.herokuapp.com/users/" IFORMAR O ID DO USER A SER DELETADO"
 
 ### GET PRODUCTS :green_circle:
 https://course-java-jdbc.herokuapp.com/products
