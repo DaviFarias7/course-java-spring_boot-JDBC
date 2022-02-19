@@ -15,3 +15,17 @@ Objetivos
 # Instância de domínio
 
 ![image](https://user-images.githubusercontent.com/86566715/154816199-d4ea7e2d-e14f-49c4-bf67-fbafa5ea43f7.png)
+
+# Aplicação funcionando em produção via Heroku
+
+### GET USERS :green_circle:
+https://course-java-jdbc.herokuapp.com/users
+
+### GET PRODUCTS :green_circle:
+https://course-java-jdbc.herokuapp.com/products
+
+### GET ORDERS :green_circle:
+https://course-java-jdbc.herokuapp.com/orders
+
+### GET CATEGORIES :green_circle:
+https://course-java-jdbc.herokuapp.com/categories
