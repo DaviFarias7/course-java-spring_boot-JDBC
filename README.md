@@ -18,12 +18,12 @@ Objetivos
 
 # Aplicação funcionando em produção via Heroku
 
-## Requisições para testar no Postman/Insomnia
+## Endpoints
 
-### GET USERS :green_circle:
+### GET USERS
 https://course-java-jdbc.herokuapp.com/users
 
-### INSERT USER :yellow_circle:
+### INSERT USER 
 https://course-java-jdbc.herokuapp.com/users/
 - Json do corpo da requisição POST
   ```
@@ -34,7 +34,7 @@ https://course-java-jdbc.herokuapp.com/users/
      "password": "123456"
    }
 
-### UPDATE USER :large_blue_circle:
+### UPDATE USER 
 https://course-java-jdbc.herokuapp.com/users/ " IFORMAR O ID DO USER A SER ATUALIZADO"
 - Json do corpo da requisição PUT
   ```
@@ -46,14 +46,14 @@ https://course-java-jdbc.herokuapp.com/users/ " IFORMAR O ID DO USER A SER ATUAL
    }
 
 
-### DELETE USER :red_circle:
+### DELETE USER 
 https://course-java-jdbc.herokuapp.com/users/" IFORMAR O ID DO USER A SER DELETADO"
 
-### GET PRODUCTS :green_circle:
+### GET PRODUCTS 
 https://course-java-jdbc.herokuapp.com/products
 
-### GET ORDERS :green_circle:
+### GET ORDERS 
 https://course-java-jdbc.herokuapp.com/orders
 
-### GET CATEGORIES :green_circle:
+### GET CATEGORIES 
 https://course-java-jdbc.herokuapp.com/categories
